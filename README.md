@@ -31,10 +31,18 @@ jupyter notebook
 ----- UP TO THIS POINT COBRAPY WAS WORKING BUT ESCHER WASN'T, THE ISSUE WAS FIXED BY UPDATING EVERYTHING: ------
 
 python3 -m pip3 install --upgrade python
+
 pip3 install --upgrade pip
+
 pip3 install -U notebook
+
 pip3 install -U cobrapy
+
 pip3 install -U escher
+
 pip3 install -U cameo
 
 ----- BY DOING THIS ESCHER STARTED WORKING BUT AN ERROR WAS SHOWN REGARDING THE CAMEO LIBRARY, DEBUGGING IS STILL IN PROCESS -----
+
+Another option for Escher that Andrew told us was the online website: https://escher.github.io/#/
+Here set Map and Model as None and hit the Load Map button, upload the map.json in the new window.
