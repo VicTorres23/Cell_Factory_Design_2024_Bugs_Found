@@ -9,14 +9,23 @@ INSTALLING JUPYTER NOTEBOOK:
 In the terminal, the following commands were used:
 
 cd OneDrive
+
 mkdir venv
+
 cd venv
+
 python3 -m venv
+
 source bin/activate
+
 pip3 install notebook
+
 pip3 install cobra
+
 pip3 install escher
+
 pip3 install cameo
+
 jupyter notebook
 
 ----- UP TO THIS POINT COBRAPY WAS WORKING BUT ESCHER WASN'T, THE ISSUE WAS FIXED BY UPDATING EVERYTHING: ------
