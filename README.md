@@ -42,7 +42,12 @@ pip3 install -U escher
 
 pip3 install -U cameo
 
------ BY DOING THIS ESCHER STARTED WORKING BUT AN ERROR WAS SHOWN REGARDING THE CAMEO LIBRARY, DEBUGGING IS STILL IN PROCESS -----
-
 Another option for Escher that Andrew told us was the online website: https://escher.github.io/#/
 Here set Map and Model as None and hit the Load Map button, upload the map.json in the new window.
+
+----- BY DOING THIS ESCHER STARTED WORKING BUT AN ERROR WAS SHOWN REGARDING THE CAMEO LIBRARY, THIS WAS CORRECTED BY SUBMITTING THE NEXT COMMANDS -----
+
+pip3 install pandas==1.5.3
+
+pip3 install cobrapy==0.26.3
+
