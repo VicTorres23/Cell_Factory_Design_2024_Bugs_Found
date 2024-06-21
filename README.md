@@ -1,6 +1,6 @@
 This repository contains the files used while watching the the Cell Factory Design Tutorial.
 
-Here are the steps I took to get to the point shown in Cobrapy_Practice.ipynb:
+Here are the steps I took to get to the point shown in Cell Factory Design Tutorial.ipynb:
 
 Equipment used was a MacBook Pro.
 
